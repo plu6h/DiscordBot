@@ -16,7 +16,7 @@
     "tago": "^6.5.1"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^9.1.1",
     "eslint-config-airbnb": "14.1.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jasmine": "2.2.0",
